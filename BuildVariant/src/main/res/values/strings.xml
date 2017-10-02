@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TFSchool</string>
+    <string name="build_type">Build Type</string>
 </resources>
