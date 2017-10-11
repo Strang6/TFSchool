@@ -1,1 +1,1 @@
-include ':BuildVariant'
+include ':app'

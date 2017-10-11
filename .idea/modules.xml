@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BuildVariant/BuildVariant.iml" filepath="$PROJECT_DIR$/BuildVariant/BuildVariant.iml" />
       <module fileurl="file://$PROJECT_DIR$/TFSchool.iml" filepath="$PROJECT_DIR$/TFSchool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
